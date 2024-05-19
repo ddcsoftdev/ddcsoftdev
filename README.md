@@ -40,7 +40,6 @@ I'm currently focusing on full-stack web development, leveraging my expertise in
 - [LinkedIn](https://www.linkedin.com/in/diegoddemarco/)
 - [Email](mailto:ddcsoftwaredev@gmail.com)
 
-For more details, check out my [resume](https://github.com/ddcsoftdev/Resume.pdf).
 
 Thanks for stopping by!
 
