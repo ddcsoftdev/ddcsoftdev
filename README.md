@@ -1,10 +1,10 @@
 # Hi there, I'm Diego Demarco 👋
 
-### Full Stack Developer
+### Developer
 
 ---
 
-Welcome to my GitHub profile! I'm Diego Demarco, a passionate Full Stack Developer with a keen interest in building scalable web applications. My journey in software development has equipped me with a diverse skill set, ranging from front-end technologies like React and Angular to back-end frameworks like NestJS and Spring Boot.
+Welcome to my GitHub profile! I'm Diego Demarco, a passionate Developer with a keen interest in building software and scalable web applications. My journey in software development has equipped me with a diverse skill set, ranging from front-end technologies like React and Angular to back-end frameworks like NestJS and Spring Boot.
 
 ### About Me
 
